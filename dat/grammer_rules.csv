@@ -1,0 +1,3 @@
+no,name,type,behind,minimal,fulldetection,sens,max,method,sequential,model
+1,order_of_adjectives,simple,y,DT+JJ+JJ,DT+JJ+JJ+...+NN,JJ,8,kind,y,quantity+quality+size+age+shape+color+origin+proper_adjective+purpose
+2,order_of_adjectives,simple,y,IN+JJ+JJ,IN+JJ+JJ+...+NN,JJ,8,kind,y,quantity+quality+size+age+shape+color+origin+proper_adjective+purpose
